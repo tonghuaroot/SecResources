@@ -1,0 +1,15 @@
+#静态文件
+rar
+zip
+ttf
+png
+gif
+
+#动态文件
+html
+shtml
+do
+asp
+aspx
+php
+jsp
