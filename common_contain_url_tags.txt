@@ -1,0 +1,22 @@
+#常见标签
+a
+link
+script
+img
+form
+object
+
+#常见标签包含url的属性
+href
+src
+action
+archive
+codebase
+data
+usemap
+
+#示例标签
+<a href="test.html"></a>
+<script src="test.js"></script>
+<form action="test.php"></form>
+<object "tesr.swf"></object>
