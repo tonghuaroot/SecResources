@@ -1,3 +1,4 @@
 # 任意文件读取
 readfile(
 file_get_contents(
+fread(
