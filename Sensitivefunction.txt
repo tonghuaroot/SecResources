@@ -1,4 +1,4 @@
 # 任意文件读取
 readfile(
-file_get_contents(
+file_get_contents( # 文件读取或SSRF
 fread(
