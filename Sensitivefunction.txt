@@ -2,3 +2,6 @@
 readfile(
 file_get_contents( # 文件读取或SSRF
 fread(
+
+# 写文件
+file_put_contents( # 通过这个函数可以向目录中写文件
