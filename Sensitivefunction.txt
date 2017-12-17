@@ -5,3 +5,10 @@ fread(
 
 # 写文件
 file_put_contents( # 通过这个函数可以向目录中写文件
+
+# SQL注入（全局搜索关键字，通过函数回溯的方法，判断是否存在SQL注入）
+# 注意关键字后面有一个空格
+insert 
+delete 
+update 
+select 
