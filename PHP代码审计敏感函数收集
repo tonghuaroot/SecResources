@@ -13,3 +13,6 @@ delete
 update 
 select 
 order by 
+
+# 命令执行
+system(
