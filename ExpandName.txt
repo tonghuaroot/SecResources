@@ -13,3 +13,10 @@ asp
 aspx
 php
 jsp
+
+
+# SVN 源码泄露
+/.svn/entries
+
+# Git 源码泄露
+/.git/config
